@@ -92,7 +92,7 @@ I worked on data cleaning, data transformation, data modeling, DAX calculations,
 
 ## 📷 Dashboard Preview
 
-![Madhava Store Dashboard](Dashboard.png)
+![Madhava Store Dashboard](SS_dashboard.png)
 
 ## 📁 Project Files
 
